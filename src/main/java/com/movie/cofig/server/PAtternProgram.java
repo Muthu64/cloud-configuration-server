@@ -22,7 +22,7 @@ public class PAtternProgram
             }
         }
 
-        System.out.println( inputSplitted[indexPosition] );
+        System.out.println( "Result : " + inputSplitted[indexPosition] );
 
     }
 
